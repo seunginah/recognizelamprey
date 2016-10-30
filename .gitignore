@@ -1,0 +1,12 @@
+# ignore tex output
+*.pdf
+*.aux
+*.log
+*.gz
+
+# ignore objects and archives, anywhere in the tree.
+*.csv
+*.txt
+*.md
+*.gitignore
+*.DS_store
