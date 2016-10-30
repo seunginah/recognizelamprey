@@ -3,6 +3,7 @@
 *.aux
 *.log
 *.gz
+*.out
 
 # ignore objects and archives, anywhere in the tree.
 *.csv
